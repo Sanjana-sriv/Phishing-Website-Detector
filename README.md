@@ -87,7 +87,7 @@ Make sure you have Python installed with the following libraries:
 pip install pandas numpy scikit-learn
 ```
 
-###🚀 Run the GUI
+### 🚀 Run the GUI
 ```bash
 python phishing_detector.py
 ```
