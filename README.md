@@ -23,14 +23,14 @@ A smart and lightweight Python tool that helps users detect potentially harmful 
 
 The rule-based engine evaluates URLs using logical checks to assign a phishing **risk score** out of 100 and generate warnings. It looks for:
 
-- 🔸 **Excessive subdomains** (e.g., `login.verify.bank.example.com`)
-- 🔸 **Use of IP addresses** instead of domain names (e.g., `http://192.168.0.1/login`)
-- 🔸 **Suspicious keywords** in the URL such as `login`, `verify`, `account`, `bank`, `secure`, `paypal`, etc.
-- 🔸 **Unusual top-level domains (TLDs)** like `.tk`, `.ga`, `.ml`, `.cf`, `.pp.ua`, etc. — commonly used in phishing attacks
-- 🔸 **Long or obfuscated URLs** (e.g., very long URLs or those with multiple parameters)
-- 🔸 **Unicode homograph attacks** (e.g., URLs with visually similar but different characters — Cyrillic `а`, `е`, etc.)
-- 🔸 **Lack of HTTPS**
-- 🔸 **URL shorteners** (e.g., `bit.ly`, `tinyurl.com`) which can hide destination domains
+-  **Excessive subdomains** (e.g., `login.verify.bank.example.com`)
+-  **Use of IP addresses** instead of domain names (e.g., `http://192.168.0.1/login`)
+-  **Suspicious keywords** in the URL such as `login`, `verify`, `account`, `bank`, `secure`, `paypal`, etc.
+-  **Unusual top-level domains (TLDs)** like `.tk`, `.ga`, `.ml`, `.cf`, `.pp.ua`, etc. — commonly used in phishing attacks
+-  **Long or obfuscated URLs** (e.g., very long URLs or those with multiple parameters)
+-  **Unicode homograph attacks** (e.g., URLs with visually similar but different characters — Cyrillic `а`, `е`, etc.)
+-  **Lack of HTTPS**
+-  **URL shorteners** (e.g., `bit.ly`, `tinyurl.com`) which can hide destination domains
 
 A risk score > 50 flags the URL as **phishing**.
 
