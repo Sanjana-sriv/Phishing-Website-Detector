@@ -23,6 +23,8 @@ A smart and lightweight Python tool that helps users detect potentially harmful 
 > Available only on local systems (Windows, macOS, Linux)
 
 ![GUI Screenshot](https://github.com/user-attachments/assets/5f18ff16-16cf-4c1e-8a1e-c4618a63cbba)
+![GUI Screenshot2](https://github.com/user-attachments/assets/8cbe43e3-0be6-4b57-91e3-dbbc66a2e6fc)
+
 
 
 ---
