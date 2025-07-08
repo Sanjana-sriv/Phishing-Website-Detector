@@ -22,6 +22,7 @@ A smart and lightweight Python tool that helps users detect potentially harmful 
 ### ✅ GUI Mode (Tkinter)
 > Available only on local systems (Windows, macOS, Linux)
 
+![image](https://github.com/user-attachments/assets/6740a7e3-89f8-4479-926d-9151eeb9414a)
 ![GUI Screenshot](https://github.com/user-attachments/assets/5f18ff16-16cf-4c1e-8a1e-c4618a63cbba)
 ![GUI Screenshot2](https://github.com/user-attachments/assets/8cbe43e3-0be6-4b57-91e3-dbbc66a2e6fc)
 
