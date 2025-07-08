@@ -76,7 +76,21 @@ If trained, the ML model contributes a **weighted score (70%)** to the final dec
 ![CLI Screenshot](https://github.com/user-attachments/assets/cafe486e-6805-43d0-9fe7-4a7c4a43a9fe)
 ![CLI Screensho2](https://github.com/user-attachments/assets/70cb0b92-7c84-49dd-bd44-9a236cbf9d64)
 
+---
 
+## 🖥️ Running the GUI
+
+### 🧰 Prerequisites
+Make sure you have Python installed with the following libraries:
+
+```bash
+pip install pandas numpy scikit-learn
+```
+
+###🚀 Run the GUI
+```bash
+python phishing_detector.py
+```
 
 ---
 
