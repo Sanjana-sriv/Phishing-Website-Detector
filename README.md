@@ -73,7 +73,10 @@ If trained, the ML model contributes a **weighted score (70%)** to the final dec
 
 ### 🖥️ CLI Mode (Terminal or Colab)
 
-![CLI Screenshot](https://github.com/user-attachments/assets/779ab5ce-9d68-4414-ba23-5e0e1d45c7bd)
+![CLI Screenshot](https://github.com/user-attachments/assets/cafe486e-6805-43d0-9fe7-4a7c4a43a9fe)
+![CLI Screensho2](https://github.com/user-attachments/assets/70cb0b92-7c84-49dd-bd44-9a236cbf9d64)
+
+
 
 ---
 
